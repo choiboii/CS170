@@ -1,0 +1,5 @@
+5 mushrooms 17.29
+2 lembas bread 1.61
+2 bacon 3.14
+1 milk 5.2
+1 egg 2.3
